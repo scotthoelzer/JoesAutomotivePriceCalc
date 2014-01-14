@@ -42,3 +42,4 @@ public class JoesAutomotivePriceCalcApp extends SingleFrameApplication {
         launch(JoesAutomotivePriceCalcApp.class, args);
     }
 }
+ 
